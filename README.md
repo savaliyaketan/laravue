@@ -19,8 +19,6 @@
 # Laravue
 [Laravue](https://laravue.dev) (pronounced /ˈlarəvjuː/) is a beautiful dashboard combination of [Laravel](https://laravel.com/), [Vue.js](https://github.com/vuejs/vue) and the UI Toolkit [Element](https://github.com/ElemeFE/element). The work is inspired by  [vue-element-admin](http://panjiachen.github.io/vue-element-admin) with our love on top of that. With the powerful Laravel framework as the backend, Vue.js as the high performance on the frontend,  Laravue appears to be a full-stack solution for an enterprise application level.
 
-Documentation: [https://doc.laravue.dev](https://doc.laravue.dev)
-
 ## Screenshot
 <p align="center">
   <img width="900" src="https://cdn.laravue.dev/screenshot.png">
